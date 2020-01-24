@@ -2,7 +2,7 @@
  *        File: git-lab-program.cc
  *      Author: <Grant Canty>
  *        Date: <1/24/2020>
- * Description: Add Description
+ * Description: This program prints "Hello Git!!" to the terminal
  */
 
 #include <iostream>
